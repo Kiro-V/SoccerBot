@@ -1,0 +1,30 @@
+Solid Edge Translation to STL
+Date: Thursday,July 16,2020 08:45AM
+Source File:C:\Users\ASUS\Desktop\SoccerBot\yellow_motor.par
+Source System: SOLID EDGE
+
+Hardware:
+Processor: AMD Ryzen 7 4800H with Radeon Graphics         
+Operating System: Windows 10
+Installed Memory: 15.41 GB
+
+Software Information:
+Parasolid Version: 31.1.255
+PSBodyshop Version: 31.1.110
+Solid Edge Version: 220.00.00.104 x64
+
+STL Export Options:
+Output File Format:BINARY
+Export Displayed Parts:Off
+structureOption: Monolithic
+Export Units:Millimeter
+Export Tolerance Value:0.001000
+Export Tolerance Type:Fine
+Export Surface Plane Angle Value:0.523599
+
+Translation progress:
+Phase 1 of 2 Fetching Parasolid information...
+Phase 2 of 2 Translating Parasolid to foreign data types...
+Number of STL file Created : 1
+Translation process completed
+Time required to translate:00 : 00 : 00
